@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CybertruckOpenGL", "CybertruckOpenGL.vcxproj", "{21614D4E-AFC4-4E21-9277-EC76933C234B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Debug|x64.ActiveCfg = Debug|x64
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Debug|x64.Build.0 = Debug|x64
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Debug|x86.ActiveCfg = Debug|Win32
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Debug|x86.Build.0 = Debug|Win32
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Release|x64.ActiveCfg = Release|x64
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Release|x64.Build.0 = Release|x64
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Release|x86.ActiveCfg = Release|Win32
+		{21614D4E-AFC4-4E21-9277-EC76933C234B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9870036-2F4C-45C6-AF08-304D1BE85E9B}
+	EndGlobalSection
+EndGlobal

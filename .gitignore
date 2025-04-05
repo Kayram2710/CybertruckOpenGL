@@ -1,0 +1,16 @@
+# Project Files
+Makefile
+*.cbp
+*.user
+
+# Misc.
+*.log
+
+# Local Rep
+/.vs
+/.vscode
+/CMakeSettings.json
+.DS_Store
+*.swp
+/OpenGLIntro
+/x64
