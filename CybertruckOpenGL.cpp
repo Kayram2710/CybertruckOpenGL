@@ -1,6 +1,9 @@
 // CybertruckOpenGL.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+#define TINYOBJLOADER_IMPLEMENTATION
+#include "include/tiny_obj_loader.h"
+
 #include <iostream>
 
 #include <GL/glew.h>    

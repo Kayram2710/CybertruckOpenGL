@@ -136,6 +136,9 @@
   <ItemGroup>
     <ClCompile Include="CybertruckOpenGL.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\tiny_obj_loader.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
