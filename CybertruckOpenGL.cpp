@@ -168,7 +168,7 @@ int main() {
         glBindVertexArray(VAO);
 
         
-        //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+        glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
         glDrawArrays(GL_TRIANGLES, 0, modelVertices.size());
         glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
 
